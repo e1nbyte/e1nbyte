@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1> Hello Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-<!--
-**e1nbyte/e1nbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?width=500&font=IBM+Plex+Sans&color=1DC3F7&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+backend+web+and+game+developer+from+Germany" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m E1nbyte
+- 🌱 Passionate about learning and expanding my skills in development.
+- 💼 I’m currently working on several projects.
+- 📫 How to reach me
+  - Mail: **contact@e1nbyte.de**
+  - Discord: **[e1nbyte](https://discord.com/users/1226586342528385100)**
+<br/>
